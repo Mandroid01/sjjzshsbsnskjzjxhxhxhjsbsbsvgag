@@ -1,5 +1,5 @@
 {
-  "updateMessage": "NetCine Play v1.5.\n\n*Corrigido erros na notificação de download.\n*Correções de erros em todos os servidores.\n*Modo paisagem e tela cheia compatível com todos os dispositivos.\n*Adicionado servidor de Futebol ao vivo.\n\nNOTA: Atualização para correções de pequenos e grandes erros nos servidores, no modo tela cheia, no som da notificações em alguns android etc.",
+  "updateMessage": "NetCine Play v1.5.\n\n*Corrigido erros na notificação de download.\n*Correções de erros em todos os servidores.\n*Modo paisagem e tela cheia compatível com todos os dispositivos.\n*Adicionado servidor de Futebol ao vivo.\n\nNOTA: Se houver erros depois da Atualização limpe os dados do aplicativo. Atualização para correções de pequenos e grandes erros nos servidores, no modo tela cheia, no som da notificações em alguns android etc.",
   "versionCode": 510,
   "url": "https://firebasestorage.googleapis.com/v0/b/mandroid-ddd24.appspot.com/o/atualizacao%2FNetCine%20Play1-5.apk?alt=media&token=bbb6a650-b717-4b1b-b96a-42166f1a03c0"
 }
