@@ -1,5 +1,5 @@
 {
-  "updateMessage": "NetCine Play v1.7 (Proxima atualização apenas em janeiro).\n\n*Correções de erros em todos os servidores.\n*Adicionado download e funções especiais no servidor Vizer.\n*Melhorias e correções de bugs no play interno, download inativos, favoritos etc.\n*Adicionado servidor de Futebol ao vivo (FuteMax).\n\nNOTA: Se houver erros depois da Atualização limpe os dados do aplicativo. Atualização para correções de pequenos e grandes erros nos servidores etc.",
-  "versionCode": 660,
-  "url": "https://firebasestorage.googleapis.com/v0/b/mandroid-ddd24.appspot.com/o/atualizacao%2Fapp-release1-7.apk?alt=media&token=c30fa936-ab3f-409a-9938-a5186c4eb161"
+  "updateMessage": "NetCine Play v1.8.\n\n*Correções no servidor MMFilmes HD.\n*Outras correções e melhoias.\n\nNOTA: Se houver erros depois da Atualização limpe os dados do aplicativo. Atualização para correções de pequenos e grandes erros nos servidores etc.",
+  "versionCode": 700,
+  "url": "https://firebasestorage.googleapis.com/v0/b/mandroid-ddd24.appspot.com/o/atualizacao%2Fapp-release1-8.apk?alt=media&token=0cdacb48-7d15-4bf4-befc-00c5413b8c79"
 }
