@@ -1,88 +1,88 @@
 {
   "grupo": [
     {
-      "nome": "INSENTIVE MAX",
+      "nome": "EQUIPE 1",
       "posicao": "1",
-      "kill": "12",
-      "booyah": "12",
-      "pontos": "120"
+      "kill": "0",
+      "booyah": "0",
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 2",
-      "kill": "11",
+      "kill": "0",
       "posicao": "2",
-      "booyah": "11",
-      "pontos": "111"
+      "booyah": "0",
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 3",
-      "kill": "10",
-      "posicao": "1",
-      "booyah": "1",
-      "pontos": "100"
+      "kill": "0",
+      "posicao": "3",
+      "booyah": "0",
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 4",
-      "kill": "9",
+      "kill": "0",
       "posicao": "4",
-      "booyah": "2",
-      "pontos": "123"
+      "booyah": "0",
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 5",
-      "kill": "23",
+      "kill": "0",
       "posicao": "5",
-      "booyah": "2",
-      "pontos": "123"
+      "booyah": "0",
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 6",
-      "kill": "23",
-      "booyah": "2",
+      "kill": "0",
+      "booyah": "0",
       "posicao": "6",
-      "pontos": "123"
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 7",
-      "kill": "23",
+      "kill": "0",
       "posicao": "7",
-      "booyah": "2",
-      "pontos": "123"
+      "booyah": "0",
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 8",
-      "kill": "23",
+      "kill": "0",
       "posicao": "8",
-      "booyah": "2",
-      "pontos": "123"
+      "booyah": "0",
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 9",
-      "kill": "23",
+      "kill": "0",
       "posicao": "9",
-      "booyah": "2",
-      "pontos": "123"
+      "booyah": "0",
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 10",
-      "kill": "23",
-      "booyah": "2",
+      "kill": "0",
+      "booyah": "0",
       "posicao": "10",
-      "pontos": "123"
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 11",
-      "kill": "23",
+      "kill": "0",
       "posicao": "11",
-      "booyah": "2",
-      "pontos": "123"
+      "booyah": "0",
+      "pontos": "0"
     },
     {
       "nome": "EQUIPE 12",
-      "kill": "23",
+      "kill": "0",
       "posicao": "12",
-      "booyah": "2",
-      "pontos": "123"
+      "booyah": "0",
+      "pontos": "0"
     }
   ]
 }
