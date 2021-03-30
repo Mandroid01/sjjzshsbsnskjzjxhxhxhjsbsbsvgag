@@ -1,86 +1,86 @@
 {
   "grupo": [
     {
-      "nome": "EQUIPE 1",
       "posicao": "1",
+      "nome": "EQUIPE 1",
       "kill": "0",
       "booyah": "0",
       "pontos": "0"
     },
     {
+      "posicao": "2",
       "nome": "EQUIPE 2",
       "kill": "0",
-      "posicao": "2",
       "booyah": "0",
       "pontos": "0"
     },
     {
+      "posicao": "3",
       "nome": "EQUIPE 3",
       "kill": "0",
-      "posicao": "3",
       "booyah": "0",
       "pontos": "0"
     },
     {
+      "posicao": "4",
       "nome": "EQUIPE 4",
       "kill": "0",
-      "posicao": "4",
       "booyah": "0",
       "pontos": "0"
     },
     {
+      "posicao": "5",
       "nome": "EQUIPE 5",
       "kill": "0",
-      "posicao": "5",
       "booyah": "0",
       "pontos": "0"
     },
     {
+      "posicao": "6",
       "nome": "EQUIPE 6",
       "kill": "0",
       "booyah": "0",
-      "posicao": "6",
       "pontos": "0"
     },
     {
+      "posicao": "7",
       "nome": "EQUIPE 7",
       "kill": "0",
-      "posicao": "7",
       "booyah": "0",
       "pontos": "0"
     },
     {
+      "posicao": "8",
       "nome": "EQUIPE 8",
       "kill": "0",
-      "posicao": "8",
       "booyah": "0",
       "pontos": "0"
     },
     {
+      "posicao": "9",
       "nome": "EQUIPE 9",
       "kill": "0",
-      "posicao": "9",
       "booyah": "0",
       "pontos": "0"
     },
     {
+      "posicao": "10",
       "nome": "EQUIPE 10",
       "kill": "0",
       "booyah": "0",
-      "posicao": "10",
       "pontos": "0"
     },
     {
+      "posicao": "11",
       "nome": "EQUIPE 11",
       "kill": "0",
-      "posicao": "11",
       "booyah": "0",
       "pontos": "0"
     },
     {
+      "posicao": "12",
       "nome": "EQUIPE 12",
       "kill": "0",
-      "posicao": "12",
       "booyah": "0",
       "pontos": "0"
     }
