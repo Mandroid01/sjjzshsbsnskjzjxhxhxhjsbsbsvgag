@@ -52,5 +52,29 @@
     "url": "https://vizer.tv/serie/online/missa-da-meia-noite",
     "img": "https://image.tmdb.org/t/p/w342/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg",
     "detalhe": "Nota: 8.1\nAno: 2011\nDuração média: 64m"
+  },
+  {
+    "nome": "Godzilla vs. Kong",
+    "url": "https://vizer.tv/filme/online/godzilla-vs-kong",
+    "img": "https://vizer.tv/content/movies/posterPt/342/25727.webp",
+    "detalhe": "Nota: 6.6\nAno: 2020\nDuração: 1h, 20m"
+  },
+  {
+    "nome": "The Walking Dead",
+    "url": "https://vizer.tv/serie/online/the-walking-dead",
+    "img": "https://vizer.tv/content/series/posterPt/342/4202.webp",
+    "detalhe": "Nota: 8.2\nAno: 2010\nDuração média: 42m"
+  },
+  {
+    "nome": "Frozen II",
+    "url": "https://vizer.tv/filme/online/frozen-2",
+    "img": "https://vizer.tv/content/movies/posterPt/342/25741.webp",
+    "detalhe": "Nota: 7.0\nAno: 2019\nDuração: 1h, 44m"
+  },
+  {
+    "nome": "WandaVision",
+    "url": "https://vizer.tv/serie/online/wandavision",
+    "img": "https://vizer.tv/content/series/posterPt/342/19193.webp",
+    "detalhe": "Nota: 8.3\nAno: 2021\nDuração média: 30m"
   }
 ]
