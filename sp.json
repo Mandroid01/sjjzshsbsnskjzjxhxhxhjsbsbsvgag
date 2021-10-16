@@ -51,6 +51,60 @@
     "nome": "Lúcifer",
     "url": "https://vizer.tv/serie/online/lucifer",
     "img": "https://vizer.tv/content/series/posterPt/342/18585.webp",
-    "detalhe": "Nota: 8.1\nAno: 2016\nDuração média: 45m"
+    "detalhe": "Nota: 8.2\nAno: 2017\nDuração média: 42m"
+  },
+  {
+    "nome": "The Good Doctor: O Bom Doutor",
+    "url": "https://vizer.tv/serie/online/o-bom-doutor",
+    "img": "https://vizer.tv/content/series/posterPt/342/5944.webp",
+    "detalhe": "Nota: 8.3\nAno: 2021\nDuração média: 54m"
+  },
+  {
+    "nome": "Os Originais",
+    "url": "https://vizer.tv/serie/online/os-originais",
+    "img": "https://vizer.tv/content/series/posterPt/342/4127.webp",
+    "detalhe": "Nota: 8.2\nAno: 2013\nDuração média: 45m"
+  },
+  {
+    "nome": "Riverdale",
+    "url": "https://vizer.tv/serie/online/riverdale",
+    "img": "https://vizer.tv/content/series/posterPt/342/5046.webp",
+    "detalhe": "Nota: 6.8\nAno: 2017\nDuração média: 45m"
+  },
+  {
+    "nome": "Teen Wolf",
+    "url": "https://vizer.tv/serie/online/teen-wolf",
+    "img": "https://vizer.tv/content/series/posterPt/342/3901.webp",
+    "detalhe": "Nota: 7.6\nAno: 2011\nDuração média: 43m"
+  },
+  {
+    "nome": "Fear the Walking Dead",
+    "url": "https://vizer.tv/serie/online/fear-the-walking-dead",
+    "img": "https://vizer.tv/content/series/posterPt/342/3736.webp",
+    "detalhe": "Nota: 6.9\nAno: 2015\nDuração média: 43m"
+  },
+  {
+    "nome": "Peaky Blinders: Sangue, Apostas e Navalhas",
+    "url": "https://vizer.tv/serie/online/peaky-blinders-sangue-apostas-e-navalhas",
+    "img": "https://vizer.tv/content/series/posterPt/342/4991.webp",
+    "detalhe": "Nota: 8.8\nAno: 2013\nDuração média: 60m"
+  },
+  {
+    "nome": "Os 100",
+    "url": "https://vizer.tv/serie/online/os-100",
+    "img": "https://vizer.tv/content/series/posterPt/342/3720.webp",
+    "detalhe": "Nota: 7.6\nAno: 2014\nDuração média: 43m"
+      },
+  {
+    "nome": "Flash",
+    "url": "https://vizer.tv/serie/online/flash",
+    "img": "https://vizer.tv/content/series/posterPt/342/5811.webp",
+    "detalhe": "Nota: 7.7\nAno: 2014\nDuração média: 44m"
+  },
+  {
+    "nome": "The Boys",
+    "url": "https://vizer.tv/serie/online/the-boys",
+    "img": "https://vizer.tv/content/series/posterPt/342/4810.webp",
+    "detalhe": "Nota: 8.7\nAno: 2019\nDuração média: 60m"
   }
 ]
