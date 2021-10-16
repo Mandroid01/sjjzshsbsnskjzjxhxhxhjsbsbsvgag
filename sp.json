@@ -10,5 +10,47 @@
     "url": "https://vizer.tv/serie/online/big-bang-a-teoria",
     "img": "https://vizer.tv/content/series/posterPt/342/18621.webp",
     "detalhe": "Nota: 8.1\nDuração média: 22m\nAno: 2007"
+  },
+  {
+    "nome": "The Walking Dead",
+    "url": "https://vizer.tv/serie/online/the-walking-dead",
+    "img": "https://vizer.tv/content/series/posterPt/342/4202.webp",
+    "detalhe": "Nota: 8.2\nAno: 2010\nDuração média: 42m"
+  },
+  {
+    "nome": "La casa de papel",
+    "url": "https://vizer.tv/serie/online/la-casa-de-papel",
+    "img": "https://vizer.tv/content/series/posterPt/342/3647.webp",
+    "detalhe": "Nota: 8.3\nAno: 2017\nDuração média: 70m"
+  },
+  {
+    "nome": "Round 6",
+    "url": "https://vizer.tv/serie/online/squid-game",
+    "img": "https://image.tmdb.org/t/p/w342/6gcHdboppvplmBWxvROc96NJnmm.jpg",
+    "detalhe": "Nota: 8.3\nAno: 2021\nDuração média: 54m"
+  },
+  {
+    "nome": "Sobrenatural",
+    "url": "https://vizer.tv/serie/online/sobrenatural",
+    "img": "https://vizer.tv/content/series/posterPt/342/4598.webp",
+    "detalhe": "Nota: 8.4\nAno: 2005\nDuração média: 45m"
+  },
+  {
+    "nome": "Diários de um Vampiro",
+    "url": "https://vizer.tv/serie/online/diarios-de-um-vampiro",
+    "img": "https://vizer.tv/content/series/posterPt/342/5232.webp",
+    "detalhe": "Nota: 7.7\nAno: 2009\nDuração média: 43m"
+  },
+  {
+    "nome": "Grey's Anatomy",
+    "url": "https://vizer.tv/serie/online/greys-anatomy",
+    "img": "https://vizer.tv/content/series/posterPt/342/18620.webp",
+    "detalhe": "Nota: 7.6\nAno: 2005\nDuração média: 43m"
+  },
+  {
+    "nome": "Lúcifer",
+    "url": "https://vizer.tv/serie/online/lucifer",
+    "img": "https://vizer.tv/content/series/posterPt/342/18585.webp",
+    "detalhe": "Nota: 8.1\nAno: 2016\nDuração média: 45m"
   }
 ]
