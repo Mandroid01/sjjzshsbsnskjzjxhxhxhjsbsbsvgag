@@ -106,5 +106,23 @@
     "url": "https://vizer.tv/serie/online/the-boys",
     "img": "https://vizer.tv/content/series/posterPt/342/4810.webp",
     "detalhe": "Nota: 8.7\nAno: 2019\nDuração média: 60m"
+  },
+  {
+    "nome": "Friends",
+    "url": "https://vizer.tv/serie/online/friends",
+    "img": "https://vizer.tv/content/series/posterPt/342/18591.webp",
+    "detalhe": "Nota: 8.9\nAno: 1994\nDuração média: 22m"
+  },
+  {
+    "nome": "Sex Education",
+    "url": "https://vizer.tv/serie/online/sex-education",
+    "img": "https://vizer.tv/content/series/posterPt/342/5167.webp",
+    "detalhe": "Nota: 8.3\nAno: 2019\nDuração média: 45m"
+  },
+  {
+    "nome": "Stranger Things",
+    "url": "https://vizer.tv/serie/online/stranger-things",
+    "img": "https://vizer.tv/content/series/posterPt/342/4803.webp",
+    "detalhe": "Nota: 8.7\nAno: 2016\nDuração média: 50m"
   }
 ]
