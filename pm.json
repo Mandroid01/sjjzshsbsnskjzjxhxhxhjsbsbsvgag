@@ -1,5 +1,17 @@
 [
   {
+    "nome": "Venom",
+    "url": "https://vizer.tv/filme/online/venom",
+    "img": "https://vizer.tv/content/movies/posterPt/342/25659.webp",
+    "detalhe": "Nota: 6.7\nAno: 2018\nDuração: 1h, 52m"
+  },
+  {
+    "nome": "Um Lugar Silencioso - Parte II",
+    "url": "https://vizer.tv/filme/online/um-lugar-silencioso-parte-ii",
+    "img": "https://vizer.tv/content/movies/posterPt/342/25728.webp",
+    "detalhe": "Nota: 7.7\nAno: 2020\nDuração: 1h, 20m"
+  },
+  {
     "nome": "Round 6",
     "url": "https://vizer.tv/serie/online/squid-game",
     "img": "https://image.tmdb.org/t/p/w342/6gcHdboppvplmBWxvROc96NJnmm.jpg",
@@ -10,6 +22,12 @@
     "url": "https://vizer.tv/serie/online/voce",
     "img": "https://vizer.tv/content/series/posterPt/342/18562.webp",
     "detalhe": "Nota: 7.7\nAno: 2018\nDuração média: 46m"
+  },
+  {
+    "nome": "Infiltrado",
+    "url": "https://vizer.tv/filme/online/infiltrado-gratis",
+    "img": "https://vizer.tv/content/movies/posterPt/342/27956.webp",
+    "detalhe": "Nota: 7.3\nAno: 2021\nDuração: 1h, 59m"
   },
   {
     "nome": "O Esquadrão Suicida",
@@ -30,12 +48,6 @@
     "detalhe": "Nota: 8.3\nAno: 2017\nDuração média: 70m"
   },
   {
-    "nome": "Um Lugar Silencioso - Parte II",
-    "url": "https://vizer.tv/filme/online/um-lugar-silencioso-parte-ii",
-    "img": "https://vizer.tv/content/movies/posterPt/342/25728.webp",
-    "detalhe": "Nota: 7.7\nAno: 2020\nDuração: 1h, 20m"
-  },
-  {
     "nome": "O Culpado",
     "url": "https://vizer.tv/filme/online/o-culpado",
     "img": "https://vizer.tv/content/movies/posterPt/342/30097.webp",
@@ -46,12 +58,6 @@
     "url": "https://vizer.tv/serie/online/historia-de-horror-americana",
     "img": "https://vizer.tv/content/series/posterPt/342/5543.webp",
     "detalhe": "Nota: 8.0\nAno: 2011\nDuração média: 43m"
-  },
-  {
-    "nome": "Infiltrado",
-    "url": "https://vizer.tv/filme/online/infiltrado-gratis",
-    "img": "https://vizer.tv/content/movies/posterPt/342/27956.webp",
-    "detalhe": "Nota: 7.3\nAno: 2021\nDuração: 1h, 59m"
   },
   {
     "nome": "Missa da Meia-Noite",
