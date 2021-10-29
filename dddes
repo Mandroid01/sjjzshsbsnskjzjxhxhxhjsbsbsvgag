@@ -1,10 +1,10 @@
 {
-  "image": "https://vizer.tv/content/movies/background/1280/29946.webp",
-  "nome": "G.I. Joe Origens: Snake Eyes",
-  "link": "https://vizer.tv/filme/online/g-i-joe-origens-snake-eyes",
-  "des": " ",
-  "temporada": 0,
+  "image": "https://www.themoviedb.org/t/p/original/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg",
+  "nome": "The Walking Dead",
+  "link": "https://vizer.tv/serie/online/the-walking-dead",
+  "des": "TEMPORADA 11 JÁ DISPONÍVEL",
+  "temporada": 10,
   "episodio": 0,
-  "imagev": "https://vizer.tv/content/movies/posterPt/342/29946.webp",
-  "isfilme": true
+  "imagev": "https://vizer.tv/content/series/posterPt/342/4202.webp",
+  "isfilme": false
 }
