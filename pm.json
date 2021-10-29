@@ -1,5 +1,23 @@
 [
   {
+    "nome": "Você",
+    "url": "https://vizer.tv/serie/online/voce",
+    "img": "https://vizer.tv/content/series/posterPt/342/18562.webp",
+    "detalhe": "Nota: 7.7\nAno: 2018\nDuração média: 46m"
+  },
+  {
+    "nome": "Round 6",
+    "url": "https://vizer.tv/serie/online/squid-game",
+    "img": "https://image.tmdb.org/t/p/w342/6gcHdboppvplmBWxvROc96NJnmm.jpg",
+    "detalhe": "Nota: 8.3\nAno: 2021\nDuração média: 54m"
+  },
+  {
+    "nome": "The Walking Dead",
+    "url": "https://vizer.tv/serie/online/the-walking-dead",
+    "img": "https://vizer.tv/content/series/posterPt/342/4202.webp",
+    "detalhe": "Nota: 8.2\nAno: 2010\nDuração média: 42m"
+  },
+  {
     "nome": "Venom",
     "url": "https://vizer.tv/filme/online/venom",
     "img": "https://vizer.tv/content/movies/posterPt/342/25659.webp",
@@ -10,18 +28,6 @@
     "url": "https://vizer.tv/filme/online/um-lugar-silencioso-parte-ii",
     "img": "https://vizer.tv/content/movies/posterPt/342/25728.webp",
     "detalhe": "Nota: 7.7\nAno: 2020\nDuração: 1h, 20m"
-  },
-  {
-    "nome": "Round 6",
-    "url": "https://vizer.tv/serie/online/squid-game",
-    "img": "https://image.tmdb.org/t/p/w342/6gcHdboppvplmBWxvROc96NJnmm.jpg",
-    "detalhe": "Nota: 8.3\nAno: 2021\nDuração média: 54m"
-  },
-  {
-    "nome": "Você",
-    "url": "https://vizer.tv/serie/online/voce",
-    "img": "https://vizer.tv/content/series/posterPt/342/18562.webp",
-    "detalhe": "Nota: 7.7\nAno: 2018\nDuração média: 46m"
   },
   {
     "nome": "Infiltrado",
@@ -70,12 +76,6 @@
     "url": "https://vizer.tv/filme/online/godzilla-vs-kong",
     "img": "https://vizer.tv/content/movies/posterPt/342/25727.webp",
     "detalhe": "Nota: 6.6\nAno: 2020\nDuração: 1h, 20m"
-  },
-  {
-    "nome": "The Walking Dead",
-    "url": "https://vizer.tv/serie/online/the-walking-dead",
-    "img": "https://vizer.tv/content/series/posterPt/342/4202.webp",
-    "detalhe": "Nota: 8.2\nAno: 2010\nDuração média: 42m"
   },
   {
     "nome": "Frozen II",
