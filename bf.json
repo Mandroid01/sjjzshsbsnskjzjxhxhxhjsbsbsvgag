@@ -2,10 +2,10 @@
   "grupo": [
     {
       "posicao": "1",
-      "nome": "A DEFINIR",
+      "nome": "ENTREGA",
       "kill": "0",
       "booyah": "0",
-      "pontos": "0"
+      "pontos": "etg_entrega"
     },
     {
       "posicao": "2",
