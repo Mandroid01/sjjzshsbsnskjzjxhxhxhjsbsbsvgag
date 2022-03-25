@@ -6,6 +6,12 @@
     "detalhe": "Nota: 8.6\nAno: 2021\nDuração: 2h, 28m"
   },
   {
+    "nome": "Halo",
+    "url": "https://vizer.tv/serie/online/halo",
+    "img": "https://vizer.tv/content/series/posterPt/342/19609.webp",
+    "detalhe": "Nota: 6.6\nAno: 2022\nDuração média: 60m"
+  },
+  {
     "nome": "Peaky Blinders: Sangue, Apostas e Navalhas",
     "url": "https://vizer.tv/serie/online/peaky-blinders-sangue-apostas-e-navalhas",
     "img": "https://vizer.tv/content/series/posterPt/342/4991.webp",
@@ -106,12 +112,6 @@
     "url": "https://vizer.tv/filme/online/godzilla-vs-kong",
     "img": "https://vizer.tv/content/movies/posterPt/342/25727.webp",
     "detalhe": "Nota: 6.6\nAno: 2020\nDuração: 1h, 20m"
-  },
-  {
-    "nome": "Frozen II",
-    "url": "https://vizer.tv/filme/online/frozen-2",
-    "img": "https://vizer.tv/content/movies/posterPt/342/25741.webp",
-    "detalhe": "Nota: 7.0\nAno: 2019\nDuração: 1h, 44m"
   },
   {
     "nome": "WandaVision",
