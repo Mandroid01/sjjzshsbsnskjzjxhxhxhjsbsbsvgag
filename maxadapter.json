@@ -1,6 +1,8 @@
 {
   "updateMessage": "Se estiver vendo essa mensagem, não clique no botão atualizar. Você deverar atualizar o aplicativo pelo Google Play!!!.",
   "versionCode": 13,
+  "codeAviso": 1,
+  "avisoMessage": "Teste",
   "size": "4465194",
   "url": "f-ca08-4aa1-b301-c1de155e5821"
 }
