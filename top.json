@@ -1,5 +1,11 @@
 [
   {
+    "nome": "The Last Kingdom",
+    "url": "https://vizer.tv/serie/online/the-last-kingdom",
+    "img": "https://vizer.tv/content/series/posterPt/342/5223.webp",
+    "detalhe": "Nota: 8.5\nAno: 2015\nDuração média: 60m"
+  },
+  {
     "nome": "Halo",
     "url": "https://vizer.tv/serie/online/halo",
     "img": "https://vizer.tv/content/series/posterPt/342/19609.webp",
@@ -28,12 +34,6 @@
     "url": "https://vizer.tv/serie/online/peaky-blinders-sangue-apostas-e-navalhas",
     "img": "https://vizer.tv/content/series/posterPt/342/4991.webp",
     "detalhe": "Nota: 6.8\nAno: 2013\nDuração média: 60m"
-  },
-  {
-    "nome": "The Last Kingdom",
-    "url": "https://vizer.tv/serie/online/the-last-kingdom",
-    "img": "https://vizer.tv/content/series/posterPt/342/5223.webp",
-    "detalhe": "Nota: 8.5\nAno: 2015\nDuração média: 60m"
   },
   {
     "nome": "Venom: Tempo de Carnificina",
