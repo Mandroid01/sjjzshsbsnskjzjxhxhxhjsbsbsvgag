@@ -1,15 +1,15 @@
 [
   {
-    "nome": "The Last Kingdom",
-    "url": "https://vizer.tv/serie/online/the-last-kingdom",
-    "img": "https://vizer.tv/content/series/posterPt/342/5223.webp",
-    "detalhe": "Nota: 8.5\nAno: 2015\nDuração média: 60m"
-  },
-  {
     "nome": "Halo",
     "url": "https://vizer.tv/serie/online/halo",
     "img": "https://vizer.tv/content/series/posterPt/342/19609.webp",
     "detalhe": "Nota: 6.6\nAno: 2022\nDuração média: 60m"
+  },
+  {
+    "nome": "Cavaleiro da Lua",
+    "url": "https://vizer.tv/serie/online/cavaleiro-da-lua",
+    "img": "https://vizer.tv/content/series/posterPt/342/19606.jpg",
+    "detalhe": "Nota: 9.0\nAno: 2022\nDuração: 60m"
   },
   {
     "nome": "Homem-Aranha: Sem Volta Para Casa",
@@ -48,9 +48,9 @@
     "detalhe": "Nota: 6.8\nAno: 2022\nDuração: 1h, 46m"
   },
   {
-    "nome": "Sherlock",
-    "url": "https://vizer.tv/serie/online/sherlock",
-    "img": "https://vizer.tv/content/series/posterPt/342/5752.webp",
-    "detalhe": "Nota: 8.6\nAno: 2021\nDuração: 2h, 28m"
+    "nome": "The Last Kingdom",
+    "url": "https://vizer.tv/serie/online/the-last-kingdom",
+    "img": "https://vizer.tv/content/series/posterPt/342/5223.webp",
+    "detalhe": "Nota: 8.5\nAno: 2015\nDuração média: 60m"
   }
 ]
