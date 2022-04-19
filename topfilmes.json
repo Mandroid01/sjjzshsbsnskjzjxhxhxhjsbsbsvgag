@@ -6,6 +6,12 @@
     "detalhe": "Nota: 8.6\nAno: 2021\nDuração: 2h, 28m"
   },
   {
+    "nome": "Batman",
+    "url": "https://vizer.tv/filme/online/batman-online",
+    "img": "https://vizer.tv/content/movies/posterPt/342/27823.jpg",
+    "detalhe": "Nota: 8.3\nAno: 2022\nDuração: 2h, 56m"
+  },
+  {
     "nome": "O Projeto Adam",
     "url": "https://vizer.tv/filme/online/o-projeto-adam",
     "img": "https://vizer.tv/content/movies/posterPt/342/38079.webp",
@@ -46,11 +52,5 @@
     "url": "https://vizer.tv/filme/online/sing-2",
     "img": "https://vizer.tv/content/movies/posterPt/342/30374.jpg",
     "detalhe": "Nota: 7.5\nAno: 2021\nDuração: 1h, 50m"
-  },
-  {
-    "nome": "Casa Gucci",
-    "url": "https://vizer.tv/filme/online/casa-gucci",
-    "img": "https://vizer.tv/content/movies/posterPt/342/30452.webp",
-    "detalhe": "Nota: 6.8\nAno: 2021\nDuração: 2h, 36m"
   }
 ]
