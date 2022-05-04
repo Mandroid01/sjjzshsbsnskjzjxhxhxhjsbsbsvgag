@@ -1,15 +1,15 @@
 [
   {
-    "nome": "Halo",
-    "url": "https://vizer.tv/serie/online/halo",
-    "img": "https://vizer.tv/content/series/posterPt/342/19609.webp",
-    "detalhe": "Nota: 6.6\nAno: 2022\nDuração média: 60m"
+    "nome": "Batman",
+    "url": "https://vizer.tv/filme/online/batman-online",
+    "img": "https://vizer.tv/content/movies/posterPt/342/27823.jpg",
+    "detalhe": "Nota: 8.3\nAno: 2022\nDuração: 2h, 56m"
   },
   {
-    "nome": "Cavaleiro da Lua",
-    "url": "https://vizer.tv/serie/online/cavaleiro-da-lua",
-    "img": "https://vizer.tv/content/series/posterPt/342/19606.jpg",
-    "detalhe": "Nota: 9.0\nAno: 2022\nDuração: 60m"
+    "nome": "Ruptura",
+    "url": "https://vizer.tv/serie/online/ruptura",
+    "img": "https://vizer.tv/content/series/posterPt/342/19628.jpg",
+    "detalhe": "Nota: 8.2\nAno: 2022\nDuração média: 60m"
   },
   {
     "nome": "Homem-Aranha: Sem Volta Para Casa",
@@ -18,16 +18,28 @@
     "detalhe": "Nota: 8.6\nAno: 2021\nDuração: 2h, 28m"
   },
   {
-    "nome": "Batman",
-    "url": "https://vizer.tv/filme/online/batman-online",
-    "img": "https://vizer.tv/content/movies/posterPt/342/27823.jpg",
-    "detalhe": "Nota: 8.3\nAno: 2022\nDuração: 2h, 56m"
+    "nome": "Better Call Saul",
+    "url": "https://vizer.tv/serie/online/better-call-saul",
+    "img": "https://vizer.tv/content/series/posterPt/342/5313.jpg",
+    "detalhe": "Nota: 8.8\nAno: 2015\nDuração média: 45m"
   },
   {
-    "nome": "Taboo",
-    "url": "https://vizer.tv/serie/online/taboo",
-    "img": "https://vizer.tv/content/series/posterPt/342/5276.webp",
-    "detalhe": "Nota: 8.4\nAno: 2017\nDuração média: 59m"
+    "nome": "Cavaleiro da Lua",
+    "url": "https://vizer.tv/serie/online/cavaleiro-da-lua",
+    "img": "https://vizer.tv/content/series/posterPt/342/19606.jpg",
+    "detalhe": "Nota: 9.0\nAno: 2022\nDuração média: 60m"
+  },
+  {
+    "nome": "Halo",
+    "url": "https://vizer.tv/serie/online/halo",
+    "img": "https://vizer.tv/content/series/posterPt/342/19609.webp",
+    "detalhe": "Nota: 6.6\nAno: 2022\nDuração média: 60m"
+  },
+  {
+    "nome": "Morte no Nilo",
+    "url": "https://vizer.tv/filme/online/morte-no-nilo",
+    "img": "https://vizer.tv/content/movies/posterPt/342/38117.webp",
+    "detalhe": "Nota: 6.6\nAno: 2022\nDuração: 2h, 7m"
   },
   {
     "nome": "Peaky Blinders: Sangue, Apostas e Navalhas",
@@ -40,17 +52,5 @@
     "url": "https://vizer.tv/filme/online/venom-tempo-de-carnificina",
     "img": "https://vizer.tv/content/movies/posterPt/342/27817.webp",
     "detalhe": "Nota: 6.6\nAno: 2021\nDuração: 1h, 20m"
-  },
-  {
-    "nome": "O Projeto Adam",
-    "url": "https://vizer.tv/filme/online/o-projeto-adam",
-    "img": "https://vizer.tv/content/movies/posterPt/342/38079.webp",
-    "detalhe": "Nota: 6.8\nAno: 2022\nDuração: 1h, 46m"
-  },
-  {
-    "nome": "The Last Kingdom",
-    "url": "https://vizer.tv/serie/online/the-last-kingdom",
-    "img": "https://vizer.tv/content/series/posterPt/342/5223.webp",
-    "detalhe": "Nota: 8.5\nAno: 2015\nDuração média: 60m"
   }
 ]
