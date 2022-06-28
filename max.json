@@ -1,6 +1,6 @@
 {
   "updateMessage": "Você precisará instalar a nova versão do aplicativo para continuar usando!\n\nO servidor principal não estará disponível em versões antigas em breve, instale a atualização para evitar problemas mais tarde...\n\nAJUDE NÓS COM 5 ESTRELAS!",
-  "versionCode": 10,
+  "versionCode": 16,
   "codeAviso": 5,
   "avisoMessage": "Nova atualização disponível!\nOtimização no aplicativo e na busca, ficou mais rápido.\nCorreções de erros.\nAnúncios reconfigurados e diminuído (A cada 30m, antes era 15m).\nVerificação de ADS BLOCK foi ativada para essa versão.",
   "size": "4465194",
