@@ -1,8 +1,8 @@
 {
   "updateMessage": "Você precisará instalar a nova versão do aplicativo para continuar usando!\n\nO servidor principal não estará disponível em versões antigas em breve, instale a atualização para evitar problemas mais tarde...\n\nAJUDE NÓS COM 5 ESTRELAS!",
   "versionCode": 17,
-  "codeAviso": 8,
-  "avisoMessage": "O aplicativo saiu da Play Store, isso significa que se você desinstalar o aplicativo não poderá mais utilizar! Talvez não voltaremos mais. Após algum tempo sem as atualizações, o aplicativo poderá deixar de funcionar!",
+  "codeAviso": 5,
+  "avisoMessage": "O aplicativo não voltará para o Google Play, mas está agora disponível na versão APK. Recomendamos baixar ela o quantos antes para poder salvar os favoritos, está versão atual pode parar de funcionar a qualquer momento.\nVocê pode baixar o aplicativo em:\n\nhttps://bit.ly/netcineplay6",
   "size": "4465194",
   "url": "https://play.google.com/store/apps/details?id=com.mandroid.fbdown"
 }
