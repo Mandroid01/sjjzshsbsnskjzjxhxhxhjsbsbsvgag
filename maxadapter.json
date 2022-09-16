@@ -1,7 +1,7 @@
 {
   "updateMessage": "O aplicativo está agora disponível apenas na versão APK.\nVocê pode baixar o aplicativo em:\n\nhttps://bit.ly/netcineplay6",
   "versionCode": 110,
-  "codeAviso": 1,
+  "codeAviso": 0,
   "avisoMessage": "Nova atualização disponível!\nOtimização no aplicativo e na busca, ficou mais rápido.\nCorreções de erros.\nAnúncios reconfigurados e diminuído (A cada 30m, antes era 15m).\nVerificação de ADS BLOCK foi ativada para essa versão.",
   "size": "4465194",
   "url": "https://play.google.com/store/apps/details?id=com.mandroid.fbdown"
