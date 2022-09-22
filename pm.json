@@ -1,5 +1,29 @@
 [
   {
+    "nome": "O Homem do Norte",
+    "url": "https://vizer.tv/filme/online/o-homem-do-norte",
+    "img": "https://vizer.tv/content/movies/posterPt/342/38224.jpg",
+    "detalhe": "Nota: 7.6\nAno: 2022\nDuração: 2h, 17"
+  },
+  {
+    "nome": "Jurassic World: Domínio",
+    "url": "https://vizer.tv/filme/online/jurassic-world-dominio",
+    "img": "https://vizer.tv/content/movies/posterPt/342/38388.jpg",
+    "detalhe": "Nota: 5.9\nAno: 2022\nDuração: 2h, 27m"
+  },
+  {
+    "nome": "The Boys",
+    "url": "https://vizer.tv/serie/online/the-boys",
+    "img": "https://vizer.tv/content/series/posterPt/342/4810.webp",
+    "detalhe": "Nota: 8.7\nAno: 2019\nDuração média: 60m"
+  },
+  {
+    "nome": "Cavaleiro da Lua",
+    "url": "https://vizer.tv/serie/online/cavaleiro-da-lua",
+    "img": "https://vizer.tv/content/series/posterPt/342/19606.jpg",
+    "detalhe": "Nota: 9.0\nAno: 2022\nDuração média: 60m"
+  },
+  {
     "nome": "Top Gun: Maverick",
     "url": "https://vizer.tv/filme/online/top-gun-maverick",
     "img": "https://vizer.tv/content/movies/posterPt/342/38262.jpg",
